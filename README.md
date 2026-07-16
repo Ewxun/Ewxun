@@ -28,7 +28,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Ewxun and I am coding inside your walls<br><br>- 🔭 I’m working on <a href="https://github.com/mai_api.py">mai_api.py</a><br>- 📚 I'm currently studying Systems Security<br>- ⚡ Does some random projects (mostly Discord bots) and game during free time</p>
+<p data-importer="text" align="left">I'm Ewxun and I am coding inside your walls<br><br>- 🔭 I’m working on <a href="https://github.com/Ewxun/mai_api.py">mai_api.py</a><br>- 📚 I'm currently studying Systems Security<br>- ⚡ Does some random projects (mostly Discord bots) and game during free time</p>
 
 ###
 
